@@ -1,4 +1,6 @@
 //Classe que guarda os produtos e servicos venidas pelo estacionamento
+// Troca de oleo, etc
+
 public class Produto {
 
 	private double peso;
